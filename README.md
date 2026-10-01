@@ -10,7 +10,7 @@ Sistema de operaciones bancarias enfocado en la autenticación de usuarios, cons
 - Base de Datos: MySQL (`db_banco_adso`)
 - Gestión de Paquetes: Composer (Autoloading PSR-4)
 - Servidor Local: PHP Built-in Server (`localhost:8000`)
-- Estilos: HTML5 y CSS3 nativo
+
 
 ---
 
