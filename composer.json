@@ -1,0 +1,16 @@
+{
+    "name": "adso/banco-adso",
+    "description": "Aplicación bancaria simulada en PHP MVC",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        },
+        "files": [
+            "src/ayudantes.php"
+        ]
+    },
+    "require": {
+        "php": ">=8.1"
+    }
+}
