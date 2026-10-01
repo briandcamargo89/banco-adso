@@ -6,7 +6,7 @@ Sistema de operaciones bancarias enfocado en la autenticación de usuarios, cons
 
 ##  Tecnologías y Herramientas
 
-- Lenguaje: PHP (Nativo)
+- Lenguaje: PHP 
 - Base de Datos: MySQL (`db_banco_adso`)
 - Gestión de Paquetes: Composer (Autoloading PSR-4)
 - Servidor Local: PHP Built-in Server (`localhost:8000`)
